@@ -28,6 +28,15 @@ Error: division by zero
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
 
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not to be confused with taking a photo with your phone.
+
+This is what a screenshot from your computer should look like.
+
+
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
 Github extends Markdown to have a list where you can check off items. <sup>[2]</sup>
